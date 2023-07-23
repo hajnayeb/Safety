@@ -2,7 +2,8 @@
 
 **I designed a safety shiled using sheet metal in SolidWorks.**
 
-![image](https://github.com/hajnayeb/Safety/assets/74108898/7493f45c-d840-4d66-9f4d-c14d309c1179)
+![image](https://github.com/hajnayeb/Safety/assets/74108898/1d1256e5-830b-4478-8879-a20384fa16ce)
+
 ![image](https://github.com/hajnayeb/Safety/assets/74108898/24fced89-67e2-428e-84f1-9a81fa808aae)
 
 
